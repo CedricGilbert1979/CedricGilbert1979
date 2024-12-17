@@ -4,8 +4,8 @@
 
 [![Support me on Ko-fi](https://img.shields.io/badge/Support%20Me-Ko--fi-ff5f5f?logo=kofi&style=for-the-badge)](https://ko-fi.com/ceed13)
 
-[![Planifiez un rendez-vous](https://img.shields.io/badge/Planifiez%20un%20rendez--vous-Calendly-006BFF?logo=wechat&logoColor=white&style=for-the-badge)](https://calendly.com/ceed13/rdv)
-[![Visit My Website](https://img.shields.io/badge/My%20Website-Developpeur--Full--Stack.fr-29ABE0?style=for-the-badge)](https://developpeur-full-stack.fr/)
+[![Book me](https://img.shields.io/badge/Planifiez%20un%20rendez--vous-Calendly-006BFF?style=for-the-badge)](https://calendly.com/ceed13/rdv)
+[![Tell me](https://img.shields.io/badge/My%20Website-Developpeur--Full--Stack.fr-29ABE0?logo=wechat&logoColor=white&style=for-the-badge)](https://developpeur-full-stack.fr/)
 
 [![Cybersécurité Google](https://img.shields.io/badge/Coursera-Cybersécurité%20Google-0056D2?logo=coursera&logoColor=white&style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/B3DKZIBHWXUO)
 [![Google AI](https://img.shields.io/badge/Coursera-Google%20AI-0056D2?logo=coursera&logoColor=white&style=for-the-badge)](https://www.coursera.org/account/accomplishments/verify/MSN0YR8LQSAQ)
