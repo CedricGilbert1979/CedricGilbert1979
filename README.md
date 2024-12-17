@@ -21,7 +21,6 @@
 ![Brevo](https://img.shields.io/badge/Brevo-2B2E4A?logo=sendinblue&logoColor=white&style=for-the-badge)
 ![Zoho](https://img.shields.io/badge/Zoho-FF3333?logo=zoho&logoColor=white&style=for-the-badge)
 ![Mailjet](https://img.shields.io/badge/Mailjet-FF9900?logo=mailjet&logoColor=white&style=for-the-badge)
-![Dolibarr](https://img.shields.io/badge/Dolibarr-003366?logo=data:image/png;base64&style=for-the-badge)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
