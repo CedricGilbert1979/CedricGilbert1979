@@ -4,6 +4,7 @@
 
 [![Support me on Ko-fi](https://img.shields.io/badge/Support%20Me-Ko--fi-ff5f5f?logo=kofi&style=for-the-badge)](https://ko-fi.com/ceed13)
 
+[![Planifiez un rendez-vous](https://img.shields.io/badge/Planifiez%20un%20rendez--vous-Calendly-006BFF?logo=wechat&logoColor=white&style=for-the-badge)](https://calendly.com/ceed13/rdv)
 [![Visit My Website](https://img.shields.io/badge/My%20Website-Developpeur--Full--Stack.fr-29ABE0?style=for-the-badge)](https://developpeur-full-stack.fr/)
 
 [![Cybersécurité Google](https://img.shields.io/badge/Coursera-Cybersécurité%20Google-0056D2?logo=coursera&logoColor=white&style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/B3DKZIBHWXUO)
@@ -48,11 +49,6 @@
 ![Suricata](https://img.shields.io/badge/Suricata-FF5E00?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAq1BMVEUuFAhHcEzhfCzxnjHwmjD3rTL3rTL0pTH0pTHVWCjynzHynjDvlzDskC/skS/qiS7ley3ngi7dZirjeCzkeyzhcSvcZCrgcCvhdCzebCvcZSrZWyncZSrOQSbZXirQRifMPCbWVynQRifTTSfXVynUUCjQRCbRRyfRSSfQRCbOQifLNiXMOybMOibIMCTJMCTJNCXGLCTEJSPDISPEJSTEJSPBHiO+GCK/GCKn7r+6AAAAOXRSTlMBABIvdMv/iv8b8f///9X/lf9UuP/teeT///9lzC3/OEL/stXp/1Sh/5P/yf//38D//5l/5P//s1b27FXpAAABIUlEQVR4AWzKhRGAAADDwAZ39/33xB3+tJfqhoX+ABimabwPrMmynZVtCe4RXO/GhVvzg/AhMNHBjD6Oih8fkvi0VUgPFljnYKlk+aGgzE8ZEqrKulrlDWV1MRBNS9ZtSmi7U4ZoW/q+b/tZDWV/qpGGYSqULg4ghmEgimpyy3EZzWHmpP/GlhmfLf0GhM16ju36AIfcWcQ4pzmfb/gR6NQLQVIpYkrDKKUcYKzuxiRdF55rYFzX1YDv3nkkghCbwCAMgkAAOriTRL4/15GGjiLDbMTRnU0AiSSViNPES0JK0jQ9zCmgA1hZbhVFIQsvL+406Agoq7Ks8qwuHwjQCcAkjuymvYqfzuEU1N2FDXrH+r6qh0GCPsAFfYF7/sOn7AGZczBj/7faHAAAAABJRU5ErkJggg==&logoColor=white&style=for-the-badge)
 ![Apache2](https://img.shields.io/badge/Apache2-D22128?logo=apache&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-
-
----
-
-<iframe src="https://calendly.com/ceed13/rdv" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0">
 
 </div>
 
