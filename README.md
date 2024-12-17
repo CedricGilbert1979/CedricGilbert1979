@@ -6,8 +6,8 @@
 
 [![Visit My Website](https://img.shields.io/badge/My%20Website-Developpeur--Full--Stack.fr-29ABE0?style=for-the-badge)](https://developpeur-full-stack.fr/)
 
-[![Cybersécurité Google](https://img.shields.io/badge/Coursera-Specialization-0056D2?logo=coursera&logoColor=white&style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/B3DKZIBHWXUO)
-[![Google AI](https://img.shields.io/badge/Coursera-Verified%20Certificate-0056D2?logo=coursera&logoColor=white&style=for-the-badge)](https://www.coursera.org/account/accomplishments/verify/MSN0YR8LQSAQ)
+[![Cybersécurité Google](https://img.shields.io/badge/Coursera-Cybersécurité%20Google-0056D2?logo=coursera&logoColor=white&style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/B3DKZIBHWXUO)
+[![Google AI](https://img.shields.io/badge/Coursera-Google%20AI-0056D2?logo=coursera&logoColor=white&style=for-the-badge)](https://www.coursera.org/account/accomplishments/verify/MSN0YR8LQSAQ)
 
 ---
 
