@@ -3,6 +3,7 @@
 **With 25 years of experience in digital transformation across various industries, I specialize in evaluating, designing, and implementing efficient, sustainable, and rapid solutions to challenges in areas such as cybersecurity, IT architecture, human factors, and bug resolution.**
 
 [![Support me on Ko-fi](https://img.shields.io/badge/Support%20Me-Ko--fi-ff5f5f?logo=kofi&style=for-the-badge)](https://ko-fi.com/ceed13)
+[![Become a member](https://img.shields.io/badge/Support%20me-Become%20a%20Patron-orange?style=for-the-badge&logo=patreon)](https://www.patreon.com/bePatron?u=152762013)
 
 [![Book me](https://img.shields.io/badge/Book%20me-Calendly-006BFF?style=for-the-badge)](https://calendly.com/ceed13/rdv)
 [![Tell me](https://img.shields.io/badge/Tell%20me-Developpeur--Full--Stack.fr-29ABE0?logo=wechat&logoColor=white&style=for-the-badge)](https://developpeur-full-stack.fr/)
