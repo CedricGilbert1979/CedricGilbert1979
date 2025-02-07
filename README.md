@@ -4,6 +4,7 @@
 
 [![Support me on Ko-fi](https://img.shields.io/badge/Support%20Me-Ko--fi-ff5f5f?logo=kofi&style=for-the-badge)](https://ko-fi.com/ceed13)
 [![Become a member](https://img.shields.io/badge/Become-a%20member-orange?style=for-the-badge&logo=patreon)](https://www.patreon.com/bePatron?u=152762013)
+[![LinkTree](https://img.shields.io/badge/Links-Linktree-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABfUlEQVR42mNgIAH8z8j/Gr5/89+C/yNj///f/x/AwPj7H9G+MDAwMDw//r/szMjI/+/P/H9h+/f/y/7//98/ZH9z85hZshUpNJSIiAHlMQzPff78g+Mv8x8f/T+m/gL+xhZEXn398m/sZyP5j/A/G/A9gdwP2HcfzOwv83+zCw/7+WlpeJ/kL+f4B+ZgZFh/mJ6Qf8Nn38M7nwUCBHRwZ/f/T7/sx8YF7J8ZO7NBoYHVFX8YzMRmPyPy/5P7A/7+gH8R8ArEzMJ8AsFxm6O/s/LP4G/M4GA6DxGfgZGJgZ/A3+xmFgWwmz9AgYxphXAlnvX8RiL5PyPxf5f8x8f/mf5P5wYb7sgoGBkYGBk4i+M4Ii+BgQYZGCDpx9xYeHz5wYmJg//MwMC4MBwODs6PDTy/5PzA6OBhZ+gUlKZP8Z8/zf/DHz/zNj/98v6HcL8D8f0BrPEvfwAAAABJRU5ErkJggg==&style=for-the-badge)](https://linktr.ee/developpeurfullstack)
 
 [![Book me](https://img.shields.io/badge/Book%20me-Calendly-006BFF?style=for-the-badge)](https://calendly.com/ceed13/rdv)
 [![Tell me](https://img.shields.io/badge/Tell%20me-Developpeur--Full--Stack.fr-29ABE0?logo=wechat&logoColor=white&style=for-the-badge)](https://developpeur-full-stack.fr/)
