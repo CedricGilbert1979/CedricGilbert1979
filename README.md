@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 **With 25 years of experience in digital transformation across various industries, I specialize in evaluating, designing, and implementing efficient, sustainable, and rapid solutions to challenges in areas such as cybersecurity, IT architecture, human factors, and bug resolution.**
 
@@ -16,7 +16,7 @@
 
 ### Technologies I Work With ⚡
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:15px;">
+<div align="left" style="display:flex; flex-wrap:wrap; gap:15px;">
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?logo=prestashop&logoColor=white&style=for-the-badge)
